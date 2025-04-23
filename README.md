@@ -71,6 +71,4 @@ Hi, I'm **Binh** 👋
 
 ---
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/BinhTHB/count.svg?" />
-</div>
+

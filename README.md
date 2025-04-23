@@ -51,7 +51,7 @@ Hi, I'm **Binh** 👋
 
 ---
 
-## 🟡 Pacman Contribution Graph
+## 🟡  
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BinhTHB/BinhTHB/output/pacman-contribution-graph-dark.svg">
@@ -61,7 +61,7 @@ Hi, I'm **Binh** 👋
 
 ---
 
-## 🐍 Snake GitHub Contribution
+## 🐍 
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BinhTHB/BinhTHB/output/github-snake-dark.svg" />
